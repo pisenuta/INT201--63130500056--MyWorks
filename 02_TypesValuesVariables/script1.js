@@ -1,5 +1,5 @@
 //Weakly and Dynamic Types
-let value;
+let value; // undefind
 value = 0;
 console.log(`value (line#4) is ${value} on typeof ${typeof value}`);
 value = 'hello' + ' world';

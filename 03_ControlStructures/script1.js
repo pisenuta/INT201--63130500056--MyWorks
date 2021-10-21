@@ -49,7 +49,7 @@ for (let i = 0; i < 10; i++) {
   console.log(i);
 }
 
-//for-in
+//for-in การวนลูปด้วย for-in นี้ค่าที่ได้ออกมาแต่ละตัวจะเป็นค่าของแต่ละ key ในอ็อบเจ็กต์
 console.log('for-in');
 let students = { id: 1, name: 'Adam', age: 20 };
 for (const property in students) {

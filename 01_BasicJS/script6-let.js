@@ -2,7 +2,8 @@
 //greeting is block scope,
 let greeting = 'Hey';
 //let variables cannot be re-declared, only can be updated
-greeting = 'Ho Ho';
+greeting = 'Ho Ho'; // update
+
 function greeter() {
   //msg is function scoped, we cannot access the variable msg outside of a function
   let msg = 'hello';

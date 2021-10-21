@@ -1,0 +1,50 @@
+const term2 = [
+    {
+        code : 'INT203',
+        courseName : 'Client-side Web Programming II',
+        credits : 2,
+        grade : 'C'
+    },
+    {
+        code : 'INT204',
+        courseName : 'Server-Side Web Programming II',
+        credits : 2,
+        grade : 'C+'
+    },
+    {
+        code : 'INT206',
+        courseName : 'Advanced Database',
+        credits : 2,
+        grade : 'B+'
+    },
+    {
+        code : 'INT208',
+        courseName : 'Network II',
+        credits : 2,
+        grade : 'B'
+    },
+    {
+        code : 'INT209',
+        courseName : 'Development and Operations (DevOps)',
+        credits : 1,
+        grade : 'A'
+    },
+    {
+        code : 'INT210',
+        courseName : 'Architecture, Integration and Deployment',
+        credits : 2,
+        grade : 'C+'
+    },
+    {
+        code : 'INT221',
+        courseName : 'Integrated Information Technology Project I',
+        credits : 1,
+        grade : 'A'
+    },
+    {
+        code : 'LNG308',
+        courseName : 'Technical Report Writing',
+        credits : 1,
+        grade : 'A'
+    }
+]
